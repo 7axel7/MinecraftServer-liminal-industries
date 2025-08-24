@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "47b4954fe35f4fa5bd15455500553985"
+	name: "7axel7#47b4954f"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
