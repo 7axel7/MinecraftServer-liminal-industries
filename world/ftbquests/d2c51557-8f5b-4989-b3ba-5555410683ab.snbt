@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d2c515578f5b4989b3ba5555410683ab"
+	name: "MrZamboni#d2c51557"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

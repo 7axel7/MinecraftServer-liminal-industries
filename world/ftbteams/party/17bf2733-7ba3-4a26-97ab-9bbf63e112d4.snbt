@@ -1,0 +1,27 @@
+{
+	id: "17bf2733-7ba3-4a26-97ab-9bbf63e112d4"
+	type: "party"
+	owner: "0a197470-6390-41f7-b20d-5edab8236ff4"
+	ranks: {
+		47b4954f-e35f-4fa5-bd15-455500553985: "officer"
+		d2c51557-8f5b-4989-b3ba-5555410683ab: "officer"
+		0a197470-6390-41f7-b20d-5edab8236ff4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Gay gals"
+		"ftbteams:description": "We gay and we gals"
+		"ftbteams:color": "#FF43D7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756086815216L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"WillowChloemg\"}]}" }
+		{ from: "0a197470-6390-41f7-b20d-5edab8236ff4", date: 1756086822921L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"MrZamboni\"}]}" }
+		{ from: "0a197470-6390-41f7-b20d-5edab8236ff4", date: 1756086822922L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"7axel7\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756086826672L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"MrZamboni\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756087885924L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"7axel7\"}]}" }
+		{ from: "0a197470-6390-41f7-b20d-5edab8236ff4", date: 1756767847061L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"7axel7\"}]}" }
+		{ from: "0a197470-6390-41f7-b20d-5edab8236ff4", date: 1756767848499L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"MrZamboni\"}]}" }
+	]
+	extra: { }
+}

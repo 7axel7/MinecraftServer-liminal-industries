@@ -1,0 +1,15 @@
+{
+	id: "0a197470-6390-41f7-b20d-5edab8236ff4"
+	type: "player"
+	player_name: "WillowChloemg"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "WillowChloemg"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

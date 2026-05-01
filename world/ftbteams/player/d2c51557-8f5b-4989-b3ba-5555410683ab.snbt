@@ -1,0 +1,15 @@
+{
+	id: "d2c51557-8f5b-4989-b3ba-5555410683ab"
+	type: "player"
+	player_name: "MrZamboni"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "MrZamboni"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59B9"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
